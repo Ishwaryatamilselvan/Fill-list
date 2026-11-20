@@ -11,7 +11,7 @@ st.markdown("""
 <style>
     .stApp { background: linear-gradient(to right, #eef2ff, #f8fafc) !important; }
     
-    /* முதன்மைத் தலைப்பை அடர் நீல நிறத்திற்கு (Dark Blue) மாற்றுகிறது */
+
     .main-title { 
         font-size: 48px !important; 
         font-weight: 700 !important; 
